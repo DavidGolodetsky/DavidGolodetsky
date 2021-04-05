@@ -6,4 +6,4 @@ With a bachelor's degree in history and artistically inclined, I have the unique
 
 In my work, I focus on creating clean and modern interfaces, and front-end logic. Currently, I’m interested in Vue.js, AWS, PWA, and Hybrid apps.
 
-Besides, I enjoy  photography, and playing board games 🤓
+Besides, I enjoy  photography, birding and playing board games 🤓
